@@ -1,0 +1,13 @@
+{
+    "wireguard_config": "wg0.conf",
+    "clients_file": "client_db.json",
+    "psk_enabled": true,
+    "ipv4_network": "10.1.0.0/24",
+    "ipv6_network": "",
+    "ipv6_enabled": false,
+    "server_ip": "10.1.0.1",
+    "server_name": "xenon",
+    "server_endpoint": "",
+    "server_port": "",
+    "dns": ""
+}
